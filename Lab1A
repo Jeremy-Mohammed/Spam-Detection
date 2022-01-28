@@ -1,0 +1,23 @@
+#include <iostream>
+
+using namespace std;
+
+int main(){
+	
+	int wage;
+	int year;
+	string name;
+	
+	cout << "Name: "<<endl;
+	cin>>name;	
+	cout << "Birth Year: "<<endl;
+	cin>>year;	
+	cout << "Hourly Wage ($): "<<endl;
+	cin>>wage;
+	
+	cout<<name, " is ", 2019-year, " years old and requests an hourly wage of $", wage;
+	
+	
+	
+	return 0;
+}

@@ -12,7 +12,7 @@ the precision is the fact of being exact.  The following image is this expected
 **Instructions**
 =====================
 
-1. Download the source code [here](https://github.com/Abdullahsrwr/assignment1_CSCI2020U).
+1. Download the source code [here](https://github.com/Jeremy-Mohammed/Spam-Detection).
 2. Open the program in a JavaFx applicable IDE.
 3. Run the program.
 4. Locate and select your training files from the file explorer.
